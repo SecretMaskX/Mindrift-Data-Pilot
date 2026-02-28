@@ -1,1 +1,4 @@
+# .gitignore dosyan şu şekilde olsun:
 venv/
+__pycache__/
+.DS_Store
